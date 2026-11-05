@@ -1,0 +1,15 @@
+{
+  "repository": "module-planned-liberu-executive-insights-0532ffee-nextjs",
+  "capabilityKey": "planned:liberu:executive-insights",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-planned-liberu-executive-insights-0532ffee-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/liberu/nextjs/executive-insights.md",
+  "presentationPlan": "projects/liberu/nextjs/executive-insights.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "liberu"
+  ]
+}
